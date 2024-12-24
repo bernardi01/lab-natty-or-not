@@ -1,42 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Revelações da Capadócia: Uma Jornada Turca com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, embarcamos em uma jornada fascinante pela Turquia, descobrindo suas paisagens deslumbrantes, cultura rica e história vibrante com a ajuda da Inteligência Artificial. A IA nos guiará na criação de um roteiro personalizado e detalhado, assegurando que cada momento da viagem seja uma experiência inesquecível. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através de comandos de texto, o Copilot da Microsoft vai me entregar um roteiro pronto e perfeito para uma viagem pela Turquia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Dia 1-3: Istambul
+Istambul é uma cidade vibrante e histórica, onde você pode mergulhar na cultura e história do país.
+Basílica de Santa Sofia: Um dos maiores tesouros arquitetônicos do mundo.
+Mesquita Azul: Conhecida por suas belas cerâmicas azuis.
+Palácio Topkapi: Um palácio histórico que hoje funciona como museu.
+Grande Bazar: Um dos maiores mercados do mundo, perfeito para compras e experiência cultural.
+Ponte do Bósforo: Oferece vistas deslumbrantes da cidade.
+
+Dia 4-6: Capadócia
+Capadócia é famosa por suas formações rochosas únicas e paisagens deslumbrantes.
+Passeios de balão: Uma experiência mágica ao amanhecer.
+Cavernas de Göreme: Cavernas esculpidas nas formações rochosas.
+Uçhisar: A mais alta formação rochosa da Capadócia, com vistas panorâmicas.
+Selime Monastério: Um dos maiores mosteiros da Capadócia.
+
+Dia 7-8: Pamukkale e Éfeso
+Pamukkale é conhecida por suas fontes termais e travertino branco, enquanto Éfeso é uma antiga cidade romana.
+Pamukkale: Um local natural deslumbrante com fontes termais.
+Éfeso: Ruínas romanas bem preservadas, incluindo o Templo de Ártemis.
+
+Dia 9-10: Antália
+Antália é uma cidade costeira com belas praias e uma atmosfera relaxante.
+Beleza Natural: Praias e clima agradável.
+
+Gastronomia: Experimente a culinária local, como kebabs, baklava e doce de figo.
+Gastronomia
+A Turquia tem uma culinária rica e diversificada. Não deixe de experimentar:
+Kebab: Especialmente o kebab de carneiro.
+Baklava: Um doce tradicional de massa filo, nozes e mel.
+Ayran: Uma bebida refrescante de iogurte.
+
+![image](https://github.com/user-attachments/assets/af496e7d-e35d-440e-b92b-409792f3d1ff)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É muito simples, já que o conceito de IA é tornar as coisas mais fáceis para nós. Com o tempo, vai ser muito difícil não usar a IA em atividades básicas do dia-a-dia. ```
 
 ### Exemplos e Insigths
 
